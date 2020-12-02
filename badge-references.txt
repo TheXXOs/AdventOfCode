@@ -1,8 +1,0 @@
-https://img.shields.io/badge/most_recent_completed_challenge-N/A-lightgrey
-Use if still waiting for challenge to start
-https://img.shields.io/badge/most_recent_completed_challenge-#a-yellow
-Use if have only completed 1/2 challenges
-https://img.shields.io/badge/most_recent_completed_challenge-#-red
-Use if are behind on challenges
-https://img.shields.io/badge/most_recent_completed_challenge-#b-brightgreen
-Use if are up-to-date with challenges
