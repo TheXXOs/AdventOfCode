@@ -1,5 +1,4 @@
 # (The)XXOs' Advent Of Code Answer Database
-![Most Recent Completed Challenge: 1b](https://img.shields.io/badge/most_recent_completed_challenge-1b-brightgreen)
 
 This is a repository for all of my Advent of Code solutions!
 
