@@ -12,7 +12,7 @@ I *do* want to try to have some stuff set up before the challenge starts next ti
 (Oh also, because of the crash, [all points for Day 1 will be taken away](https://www.reddit.com/r/adventofcode/comments/k4ejjz/2020_day_1_unlock_crash_postmortem/)).
 
 ## Explanation of the Challenge
-The input I received is [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%201/input.txt)
+The input I received is [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%201/input.txt).
 
 ### [Part One](https://adventofcode.com/2020/day/1)
 Part One of today's challenge involved finding two numbers in a long list that added to 2020 - and output their product.
