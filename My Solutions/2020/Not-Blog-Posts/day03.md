@@ -1,7 +1,7 @@
 # AoC Day 3 2020 - Late Start
 I was a *bit* late to the start of the challenge (by ~20 minutes) because of a family thing that I had to do.
 
-However, surprisingly, I still managed to hold my 1st on the school leaderoard *and* my 2nd on the r/xkcd leaderboard. Wow!
+However, surprisingly, I still managed to hold my 1st on the school leaderboard *and* my 2nd on the r/xkcd leaderboard. Wow!
 
 ## Explanation of the Challenge
 The input I received is [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%203/input.txt).
