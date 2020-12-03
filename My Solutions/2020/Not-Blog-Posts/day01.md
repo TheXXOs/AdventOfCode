@@ -27,10 +27,6 @@ Part Two was exactly the same as Part One, except you had to do it with *three* 
 You can see my code [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%201/1b.py), and my answer was `240889536`.
 
 ## Positions on leaderboards
-![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard%20(today)-2/5-green)
+![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard%20-2/5-lightgrey)
 
-![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard%20(overall)-2/5-lightgrey)
-
-![Worldwide: N/A](https://img.shields.io/badge/Worldwide%20leaderboard%20(today)-N%2FA-red)
-
-![Worldwide: N/A](https://img.shields.io/badge/Worldwide%20leaderboard%20(overall)-N%2FA-lightgrey)
+![Worldwide: N/A](https://img.shields.io/badge/Worldwide%20leaderboard-N%2FA-lightgrey)
