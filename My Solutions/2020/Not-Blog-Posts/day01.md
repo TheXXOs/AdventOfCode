@@ -29,4 +29,4 @@ You can see my code [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%
 ## Positions on leaderboards
 ![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard%20-2/5-lightgrey)
 
-![Worldwide: 2531st](https://img.shields.io/badge/Worldwide%20leaderboard-2531/-lightgrey)
+![Worldwide: 2531st](https://img.shields.io/badge/Worldwide%20leaderboard-2531-lightgrey)
