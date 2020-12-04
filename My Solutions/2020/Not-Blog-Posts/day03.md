@@ -31,6 +31,6 @@ I later made a better version of Part Two that uses *functions* instead of copy+
 ## Positions on leaderboards
 ![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard-2/6-green)
 
-![Worldwide: N/A](https://img.shields.io/badge/Worldwide%20leaderboard-N%2FA-red)
+![Worldwide: 6968th](https://img.shields.io/badge/Worldwide%20leaderboard-6968-red)
 
 ![School: 1/4](https://img.shields.io/badge/School%20leaderboard-1/4-brightgreen)
