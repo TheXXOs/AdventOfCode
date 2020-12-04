@@ -36,6 +36,6 @@ You can see my code [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%
 ## Positions on leaderboards
 ![r/xkcd: 2/6](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard-2/6-green)
 
-![Worldwide: 3025th](https://img.shields.io/badge/Worldwide%20leaderboard-3025-red)
+![Worldwide: 3025th](https://img.shields.io/badge/Worldwide%20leaderboard-3895-red)
 
 ![School: 1/3](https://img.shields.io/badge/School%20leaderboard-1/3-brightgreen)
