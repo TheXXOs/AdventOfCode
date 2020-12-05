@@ -35,6 +35,16 @@ That wasn't too challenging, if you have all the IDs.
 
 You can see my code [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%205/5b.py), and my answer was `554`.
 
+### **EDIT**, Post-shower
+I am dumb.
+
+I didn't realise until just now that ***the challenge can be done with binary numbers!***
+
+So, I went ahead and re-did both parts with `replace()` and `int(base=2)`.
+
+Part One (better) can be found [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%205/5a-better.py),
+and Part Two (better) can be found [here](https://github.com/TheXXOs/AdventOfCode/blob/main/My%20Solutions/2020/Day%205/5b-better.py).
+
 ## Positions on leaderboards
 ![r/xkcd: 2/7](https://img.shields.io/badge/r%2Fxkcd%20discord%20leaderboard-2/7-green)
 
