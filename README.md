@@ -10,3 +10,14 @@ I'm also writing my initial... reactions? I guess? to the questions and stuff of
 
 **Please Note:**
 If you wish to *use* these, the input is put in a file of the name `input.txt`.
+
+```
+        .---_
+       / / /\|
+     / / | \ *
+    /  /  \ \
+   / /  / \  \
+ ./~~~~~~~~~~~\.
+( .",^. -". '.~ )
+ '~~~~~~~~~~~~~'
+```
