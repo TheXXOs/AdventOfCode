@@ -6,10 +6,10 @@ Avoid this repository if you want to do it yourself and don't want to know the s
 
 Check out [Advent Of Code](https://adventofcode.com/ "Advent of Code") by [Eric Wastl](http://was.tl/ "was.tl") if you want to participate, or see the questions.
 
-I'm also writing my initial... reactions? I guess? to the questions and stuff of AoC, so check that out in the [Not-Blog-Posts folder](https://github.com/TheXXOs/AdventOfCode/tree/main/My%20Solutions/2020/Not-Blog-Posts). I may eventually turn it into a website or something.
+In 2020 I wrote my initial... reactions? I guess? to the questions and challenges of AoC, so check that out in the [Not-Blog-Posts folder](https://github.com/TheXXOs/AdventOfCode/tree/main/My%20Solutions/2020/Not-Blog-Posts) if you want.
 
 **Please Note:**
-If you wish to *use* these, the input is put in a file of the name `input.txt`.
+My 2020 and 2021-post-day-3 code uses files of the name `input.txt` for the inputs, whereas days 1 & 2 of 2021 use the `inp` variable in the actual code.
 
 ```
         .---_
